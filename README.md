@@ -1,5 +1,5 @@
 ## Olá, sou Alex Oliveira
-- 🔭 Atualmete trabalho com Front-end
+- 🔭 Atualmente trabalho com Front-end
 - 🌱 Estou estudando Javascript
 - 📫 Contate-me no e-mail alexoliiveiraa@outlook.com
 <div align="center">
