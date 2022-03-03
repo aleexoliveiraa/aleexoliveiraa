@@ -4,7 +4,7 @@
 - 📫 Contate-me no e-mail alexoliiveiraa@outlook.com
 <div align="center">
   <a href="https://github.com/aleexoliveiraa">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=aleexoliveiraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=aleexoliveiraa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleexoliveiraa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block, justify-content: center"><br>
